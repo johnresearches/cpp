@@ -5,7 +5,8 @@ using namespace std;
 int main() {
     // Complete the code.
     /*
-        Int ("%d"): 32 Bit integer
+
+Int ("%d"): 32 Bit integer
         Long ("%ld"): 64 bit integer
         Char ("%c"): Character type
         Float ("%f"): 32 bit real value
