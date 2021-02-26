@@ -8,7 +8,6 @@ int search(int arr[], int n, int x){
 			return i;
 	return -1;
 }
-
 int main(){
 	int arr[] = {3,10,2,4,1}
 	
