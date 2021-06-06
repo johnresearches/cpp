@@ -1,4 +1,5 @@
 // run in gcc with: gcc randomString.cpp -lstdc++
+
 // then run: a.exe
 
 #include <stdio.h>
